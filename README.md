@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nakakuro
+- 👀 I’m interested in..pretty much everything. Outside of coding I love all motorsports.
+- 🌱 I’m currently learning Python, C++ and C#.
+- 💞️ I’m looking to collaborate on open source A.I. projects.
+- 📫 How to reach me - w.c.mizu@outlook.com / w.c.mizu@gmail.com
+- 
